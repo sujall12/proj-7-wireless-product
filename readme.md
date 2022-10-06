@@ -2,9 +2,9 @@
 
 ## By Sujal
 
-## [Link for Project 1](https://proj7wirelessheadphone.netlify.app/) 
+## [Link for Project 7](https://proj-07-mobile-responsive.netlify.app/) 
 
-![project 1 completed](./Screenshot_1.png)
+![project 7 completed](./Screenshot_1.png)
 
 ## What I learned ? How was my experience while making this project?
 
